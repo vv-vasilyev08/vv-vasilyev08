@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vv-vasilyev08
 - 👀 I’m interested in QA Engineering
 - 🌱 I am now studying with Vadim Ksendzov
-- 💞️ Making a video on youtube channel https://www.youtube.com/channel/UCiY0YvESxZ8yuvlDFKCNkDw
+- 💞️ Making a video on youtube channel [Путь тестировщика](https://www.youtube.com/channel/UCiY0YvESxZ8yuvlDFKCNkDw)
 - 📫 I write my skills here in the repositories
 
 <!---
